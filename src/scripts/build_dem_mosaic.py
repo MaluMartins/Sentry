@@ -1,3 +1,5 @@
+# construir DEM (mapa de elevação) mosaico do RS a partir de arquivos do SRTM
+
 from pathlib import Path
 import rasterio
 from rasterio.merge import merge

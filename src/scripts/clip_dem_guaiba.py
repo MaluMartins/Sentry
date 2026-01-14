@@ -1,3 +1,5 @@
+# recortar região específica da bacia do Guaíba a partir do DEM mosaico do RS
+
 from pathlib import Path
 import geopandas as gpd
 import rasterio
